@@ -21,10 +21,11 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
-```
-# Reg.No- 212223060236
-# Name- Sahana Harshini K
+Reg.No- 212223060236
 
+Name- Sahana Harshini K
+
+```
 a=int(input())
 b=int(input())
 power=lambda a,b:pow(a,b)
